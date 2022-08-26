@@ -1,0 +1,15 @@
+
+header{
+    background-color: rgb(184, 200, 219);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.header-menu{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    cursor: pointer;
+}

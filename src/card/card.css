@@ -5,17 +5,25 @@
     border: 1px solid black;
     display: flex;
     flex-direction: column;
+    cursor: pointer;
 }
 
 .card-header {
     display: flex;
     padding: 5px 10px;
-    background-color: aquamarine;
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
     line-height: 15px;
     justify-content: space-between;
+}
+
+.card-header-eng {
+    background-color: aquamarine;
+}
+
+.card-header-translate{
+    background-color: rgb(212, 218, 212);
 }
 
 .card-main{

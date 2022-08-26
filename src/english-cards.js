@@ -5,6 +5,7 @@ class EnglishClass {
     this.verb = verb;
     this.sentense = sentense;
     this.thema = thema;
+    this.translate = false;
   }
 }
 
